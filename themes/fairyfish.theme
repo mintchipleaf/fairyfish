@@ -1,0 +1,30 @@
+ name: 'fairyfish'
+ url: 'https://github.com/mintchipleaf/fairyfish'
+ preferred_background: 5A5475
+
+fish_color_normal F8F8F2
+fish_color_command b8a2ce
+fish_color_param EBB2CF
+fish_color_keyword FF857F
+fish_color_quote c2ffdf
+fish_color_redirection ffb8d1
+fish_color_end f9f158
+fish_color_comment 8077A8
+fish_color_error FF857F
+fish_color_gray 958db8
+fish_color_selection background=3a364b
+fish_color_search_match backgrouknd=3a364b
+fish_color_option c9e7d5
+fish_color_operator FFB8D1
+fish_color_escape ea999c
+fish_color_autosuggestion 958db8
+fish_color_cancel e78284
+fish_color_cwd e6c000
+fish_color_user AFECAD
+fish_color_host c0bdd1
+fish_color_host_remote c9e7d5
+fish_color_status e78284
+fish_pager_color_progress 958db8
+fish_pager_color_prefix ffb8d1
+fish_pager_color_completion F8F8F0
+fish_pager_color_description 958db8
