@@ -7,3 +7,5 @@ Install with a plugin manager like <a href="https://github.com/jorgebucaran/fish
 ```sh
 fisher install mintchipleaf/fairyfish
 ```
+________
+###### Check out my other terminal ports of fairyfloss [here](https://gist.github.com/mintchipleaf/bd17682ec6ec0d11c90d7ff46fa4cdbe)
